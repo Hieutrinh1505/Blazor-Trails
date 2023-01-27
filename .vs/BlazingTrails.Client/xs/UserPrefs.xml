@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{3DBAB376-FC3A-44EF-AAAE-4D7A4A50298F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BlazingTrails.Client/Features/Home/TrailCard.razor" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/Features/Home/Homepage.razor" Line="21" Column="17" />
+      <File FileName="BlazingTrails.Client/App.razor" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/_Imports.razor" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/Program.cs" Line="12" Column="1" />
+      <File FileName="BlazingTrails.Client/wwwroot/css/bootstrap/bootstrap.min.css" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/wwwroot/index.html" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/Features/Home/Trail.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazingTrails.Client" expanded="True">
+            <Node name="BlazingTrails.Client" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Trail.cs" selected="True" />
+                </Node>
+                <Node name="Layout" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+                <Node name="images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlazingTrails.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
