@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "70KxrLjxQNvyhxU7QtvmDiNhxRuactCGDQz72uEdwaE=",
+  "Hash": "nZF3dp2qtaucuCyrtq/QVrTfjb+ltoM9KzrjNyVXppk=",
   "Source": "BlazingTrails.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6798,6 +6798,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/bundle/BlazingTrails.Client.styles.css",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "/",
+      "RelativePath": "BlazingTrails.Client.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/bundle/BlazingTrails.Client.styles.css"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/projectbundle/BlazingTrails.Client.bundle.scp.css",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "/",
+      "RelativePath": "BlazingTrails.Client.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/projectbundle/BlazingTrails.Client.bundle.scp.css"
     },
     {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/.DS_Store",

@@ -39,3 +39,7 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ksyyl2s2l2
