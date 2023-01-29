@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9Ib21lUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailCard.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbENhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qe1rean4hg
+
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ksyyl2s2l2
+
+[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6ayv425e1m

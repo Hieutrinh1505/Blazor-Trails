@@ -819,3 +819,5 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/projectbundle/BlazingTrails.Client.bundle.scp.css
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/package-lock.json
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/package.json
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/Features/Home/TrailSearch.razor.rz.scp.css
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/Features/Home/SearchFilter.razor.rz.scp.css

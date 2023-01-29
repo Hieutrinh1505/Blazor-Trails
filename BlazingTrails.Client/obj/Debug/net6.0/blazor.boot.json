@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-AtjrcSyN9gleNjzHPZRVJVh6sNEX1FxRBHN\/ZN6Yt3Q=",
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
-      "BlazingTrails.Client.dll": "sha256-CNpdKjL4mexrjbXxfaXpXYDmoTEm+nSKBSlCEVPfg9s="
+      "BlazingTrails.Client.dll": "sha256-Z1XlaVYZsrxCYDVM\/MScpmmd9kdYyqTZbEx1+kfgn2o="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazingTrails.Client.pdb": "sha256-gwOgNyoQsVrAQQzTkgAerIP18xllxKdOAStgN8Qte9I="
+      "BlazingTrails.Client.pdb": "sha256-1l00C+UpexyPHVe3P7ONevrdXSPzK\/XxbYGmo3hcjl4="
     },
     "runtime": {
       "dotnet.6.0.12.iuic4e1o9s.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
