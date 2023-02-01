@@ -498,6 +498,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "BlazingTrails.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazingTrails.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazingTrails.Shared.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -990,6 +1000,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "BlazingTrails.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazingTrails.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazingTrails.Shared.dll": {}
         }
       }
     }
@@ -1753,10 +1773,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BlazingTrails.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BlazingTrails.Shared/BlazingTrails.Shared.csproj",
+      "msbuildProject": "../BlazingTrails.Shared/BlazingTrails.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlazingTrails.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.0"
     ]
@@ -1785,7 +1811,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj": {
+              "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

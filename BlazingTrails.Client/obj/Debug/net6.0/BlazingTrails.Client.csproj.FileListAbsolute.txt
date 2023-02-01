@@ -1,5 +1,13 @@
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.csproj.AssemblyReference.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.AssemblyInfoInputs.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.AssemblyInfo.cs
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.csproj.CoreCompileInputs.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.MvcApplicationPartsAssemblyInfo.cache
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Client.dll
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Client.pdb
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Shared.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Shared.pdb
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/blazor.boot.json
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/dotnet.6.0.12.iuic4e1o9s.js
@@ -334,6 +342,7 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Net.Mail.dll.gz
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Shared.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.IO.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Security.SecureString.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
@@ -346,6 +355,7 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/BlazingTrails.Shared.pdb.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
@@ -598,12 +608,8 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/icudt_CJK.dat
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/icudt_EFIGS.dat
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/icudt_no_CJK.dat
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.csproj.AssemblyReference.cache
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.GeneratedMSBuildEditorConfig.editorconfig
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.AssemblyInfoInputs.cache
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.AssemblyInfo.cs
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.csproj.CoreCompileInputs.cache
-/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.MvcApplicationPartsAssemblyInfo.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/BlazingTrails.Shared.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/BlazingTrails.Shared.pdb
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/KVEPuvBY.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/1i9o9mTY.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/Nicj9AdG.gz
@@ -800,6 +806,8 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/i8shlEgO.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/BkPdad0t.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/5O+J1OTG.gz
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/ONs0H+s5.gz
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/QQ+6U8Bl.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/5+4LUepx.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/1iAcM9b9.gz
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/ZmP7lBOH.gz
@@ -821,3 +829,4 @@
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/refint/BlazingTrails.Client.dll
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/BlazingTrails.Client.pdb
 /Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/ref/BlazingTrails.Client.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/Features/ManageTrails/FormSection.razor.rz.scp.css

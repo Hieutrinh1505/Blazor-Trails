@@ -1,0 +1,12 @@
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.deps.json
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.pdb
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.csproj.AssemblyReference.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.AssemblyInfoInputs.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.AssemblyInfo.cs
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.csproj.CoreCompileInputs.cache
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/refint/BlazingTrails.Shared.dll
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.pdb
+/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/ref/BlazingTrails.Shared.dll
