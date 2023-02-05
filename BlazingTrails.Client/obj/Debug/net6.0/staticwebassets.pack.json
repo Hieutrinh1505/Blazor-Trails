@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets/BlazingTrails.Client.styles.css"
     },
     {
-      "Id": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
-    },
-    {
       "Id": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
@@ -43,6 +39,10 @@
     {
       "Id": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz"
     },
     {
       "Id": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",

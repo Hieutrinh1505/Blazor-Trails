@@ -20,10 +20,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/HomePage.razor]
-build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9Ib21lUGFnZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchPage.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -55,6 +51,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9Ib21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0kvbbeyixf
 
 [/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchFilter.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hGaWx0ZXIucmF6b3I=

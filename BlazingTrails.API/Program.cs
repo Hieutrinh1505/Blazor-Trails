@@ -1,26 +1,31 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+using BlazingTrails.Api.Persistence;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
+using FluentValidation.AspNetCore;
+using System.Reflection;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<BlazingTrailsContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("BlazingTrailsContext")));
+builder.Services.AddControllers().AddFluentValidation(fv => fv.RegisterValidatorsFromAssembly(Assembly.Load("BlazingTrails.Shared")));
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseWebAssemblyDebugging();
 }
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
+app.UseBlazorFrameworkFiles();
+app.UseStaticFiles();
+
+app.UseRouting();
 
 app.MapControllers();
+app.MapFallbackToFile("index.html");
 
 app.Run();
-

@@ -1,39 +1,32 @@
 ﻿<Properties StartupConfiguration="{9F04DFCB-FE98-4255-A3D8-D5274666603A}|BlazingTrails.Web">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazingTrails.Client/Features/Home/SearchPage.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazingTrails.Client/_Imports.razor">
     <Files>
-      <File FileName="BlazingTrails.Client/wwwroot/trails/trail-data.json" Line="7" Column="19" IsPinned="True" />
-      <File FileName="BlazingTrails.Client/_Imports.razor" Line="1" Column="1" IsPinned="True" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailDetails.razor.css" Line="51" Column="17" IsPinned="True" />
-      <File FileName="BlazingTrails.Client/Program.cs" Line="1" Column="1" />
-      <File FileName="BlazingTrails.Client/App.razor" />
-      <File FileName="BlazingTrails.Client/Features/Home/HomePage.razor" Line="12" Column="31" />
-      <File FileName="BlazingTrails.Client/Features/Home/Trail.cs" Line="1" Column="1" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailCard.razor" Line="8" Column="11" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailDetails.razor" Line="20" Column="10" />
-      <File FileName="BlazingTrails.Client/wwwroot/css/app.css" />
-      <File FileName="BlazingTrails.Client/wwwroot/index.html" />
-      <File FileName="BlazingTrails.Client/Features/Layout/Header.razor" Line="5" Column="7" />
-      <File FileName="BlazingTrails.Client/Features/Layout/MainLayout.razor" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailDetails.razor.scss" />
-      <File FileName="BlazingTrails.Client/package.json" />
-      <File FileName="BlazingTrails.Client/Features/Home/SearchPage.razor" Line="12" Column="62" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailSearch.razor" Line="1" Column="1" />
-      <File FileName="BlazingTrails.Client/Features/Home/TrailSearch.razor.css" Line="1" Column="1" />
-      <File FileName="BlazingTrails.Client/Features/Home/SearchFilter.razor" Line="2" Column="1" />
-      <File FileName="BlazingTrails.Client/Features/Home/SearchFilter.razor.scss" Line="15" Column="6" />
-      <File FileName="BlazingTrails.Client/Features/Home/SearchFilter.razor.css" Line="1" Column="1" />
+      <File FileName="BlazingTrails.Client/Features/ManageTrails/FormSection.razor.scss" />
+      <File FileName="BlazingTrails.Client/Features/ManageTrails/FormSection.razor.css" />
+      <File FileName="BlazingTrails.Client/Features/ManageTrails/FormSection.razor" />
+      <File FileName="BlazingTrails.Client/Features/ManageTrails/AddTrailPage.razor" />
+      <File FileName="BlazingTrails.Client/Features/ManageTrails/FormFieldSet.razor" />
+      <File FileName="BlazingTrails.API/Program.cs" />
+      <File FileName="BlazingTrails.Shared/Features/ManageTrails/TrailDto.cs" />
+      <File FileName="BlazingTrails.Client/_Imports.razor" Line="10" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazingTrails" expanded="True">
             <Node name="BlazingTrails.Client" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
               <Node name="Features" expanded="True">
                 <Node name="Home" expanded="True">
                   <Node name="SearchFilter.razor" expanded="True" />
                   <Node name="TrailDetails.razor" expanded="True" />
                 </Node>
                 <Node name="Layout" expanded="True" />
+                <Node name="ManageTrails" expanded="True">
+                  <Node name="FormSection.razor" expanded="True" />
+                </Node>
               </Node>
               <Node name="Properties" expanded="True" />
               <Node name="wwwroot" expanded="True">
@@ -41,18 +34,31 @@
                   <Node name="bootstrap" expanded="True" />
                   <Node name="open-iconic" expanded="True" />
                 </Node>
-                <Node name="trails" expanded="True" />
+              </Node>
+              <Node name="_Imports.razor" selected="True" />
+            </Node>
+            <Node name="BlazingTrails.Shared" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Features" expanded="True">
+                <Node name="ManageTrails" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BlazingTrails.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BlazingTrails.API FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

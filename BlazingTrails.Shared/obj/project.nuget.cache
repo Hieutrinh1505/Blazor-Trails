@@ -1,13 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "9N5+yFFyOXQkPj7LgEcFSwxB0N3L66eHW5XtGGA/cUx+yuvUlUL9LZIwj52mRa56SjKNrf/jBT7d5PbR14aLCw==",
+  "dgSpecHash": "l96LwAzITICgFRP12/LuBURz02lb+o2CNXCgCGxRIprUNOCBcYaNeuS/hb6UaV6rKiyq+zzmwFzFKqpaVUkacg==",
   "success": true,
   "projectFilePath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj",
   "expectedPackageFiles": [
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation.aspnetcore/10.3.3/fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
-    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "/Users/hieutrinh/.nuget/packages/fluentvalidation/10.3.5/fluentvalidation.10.3.5.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.authorization/6.0.0/microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components/6.0.0/microsoft.aspnetcore.components.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.0/microsoft.aspnetcore.components.analyzers.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components.forms/6.0.0/microsoft.aspnetcore.components.forms.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components.web/6.0.0/microsoft.aspnetcore.components.web.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.metadata/6.0.0/microsoft.aspnetcore.metadata.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.jsinterop/6.0.0/microsoft.jsinterop.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/system.io.pipelines/6.0.0/system.io.pipelines.6.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,198 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.API/BlazingTrails.API.csproj": {}
+    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Api/BlazingTrails.Api.csproj": {}
   },
   "projects": {
-    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.API/BlazingTrails.API.csproj": {
+    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Api/BlazingTrails.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.API/BlazingTrails.API.csproj",
-        "projectName": "BlazingTrails.API",
-        "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.API/BlazingTrails.API.csproj",
+        "projectUniqueName": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Api/BlazingTrails.Api.csproj",
+        "projectName": "BlazingTrails.Api",
+        "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Api/BlazingTrails.Api.csproj",
         "packagesPath": "/Users/hieutrinh/.nuget/packages/",
-        "outputPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.API/obj/",
+        "outputPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hieutrinh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj": {
+                "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj"
+              },
+              "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj": {
+                "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.ApiEndpoints": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj",
+        "projectName": "BlazingTrails.Client",
+        "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj",
+        "packagesPath": "/Users/hieutrinh/.nuget/packages/",
+        "outputPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hieutrinh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj": {
+                "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazored.FluentValidation": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj",
+        "projectName": "BlazingTrails.Shared",
+        "projectPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj",
+        "packagesPath": "/Users/hieutrinh/.nuget/packages/",
+        "outputPath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hieutrinh/.nuget/NuGet/NuGet.Config"
@@ -38,13 +219,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
+            "FluentValidation": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[10.3.5, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "MediatR": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Forms": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -59,9 +248,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

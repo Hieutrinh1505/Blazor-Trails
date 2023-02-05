@@ -7,6 +7,10 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.FluentValidation.dll": "sha256-Yd+TgjggnGAP41alBqq4QQNW1P2sDk9W0RytHV+VFw8=",
+      "FluentValidation.dll": "sha256-SJza3FlUF766Xz3kssVQo7yP56iIKA9klehaUZyjBts=",
+      "MediatR.dll": "sha256-fQTLMGLCCX5kLC\/epoTUwFSME++hDMWmDcXy2s+i968=",
+      "MediatR.Extensions.Microsoft.DependencyInjection.dll": "sha256-McFxOavRmxN4ebFsUFlEjLsqKd3e2nTYqi0rftdNhaY=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-ODuGqSb\/EjQtAKtKGIHBUB8NM5h18TZENSXeu+IQyNk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-OHXy3+qxNjNPiVPhtM6knnUNVpcsVVAbYQzt9ymQykI=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-JL6o2IwhVoOKMOUJKALvvZX5HskL\/2V75XnhH0T\/RhQ=",
@@ -196,15 +200,15 @@
       "mscorlib.dll": "sha256-AtjrcSyN9gleNjzHPZRVJVh6sNEX1FxRBHN\/ZN6Yt3Q=",
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
-      "BlazingTrails.Shared.dll": "sha256-kli6ilJxLH7clYaA5Z9mlsrs29Mn1Wz4n7sUF6SgvHc=",
-      "BlazingTrails.Client.dll": "sha256-ghRex4U5zTADHei8vXpy+2bPExKKsjVDMrX8fq+iW7A="
+      "BlazingTrails.Shared.dll": "sha256-loET4b88UmgqE\/UGiZDfcoeIujBpynP2eIXm28xEM7g=",
+      "BlazingTrails.Client.dll": "sha256-l1JUG49JAEg9jDsYs+HzpmfjB89p465t9pug4fdTDNA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazingTrails.Shared.pdb": "sha256-fYus82EEXsKDB59XgRxgDrnOtJpzXbZRZfY0urACG9c=",
-      "BlazingTrails.Client.pdb": "sha256-W\/A991\/NmmiV9xT3Siup0PVIcIk3USMhyCQoIDetrpE="
+      "BlazingTrails.Shared.pdb": "sha256-fl7LXogDWNQNkkrZ1OMFF7kca6l\/3N+Xirs+aNhphD4=",
+      "BlazingTrails.Client.pdb": "sha256-edDL0kGInlAALr94BBKL\/BaR8n889FQuUuz16l6J+rk="
     },
     "runtime": {
       "dotnet.6.0.12.iuic4e1o9s.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",

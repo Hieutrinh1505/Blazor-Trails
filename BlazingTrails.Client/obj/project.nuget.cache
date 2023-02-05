@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lo3GKPSaJZJ4ZtBm/NRsfIfTDsgDUXPmjzHVLMDhJg+pLsoWPmRt8aOK5+9K8bJJm3Ha3ha9zz8TSdaZVP+DlQ==",
+  "dgSpecHash": "67ifP0pq/8saKkagbPayeht67GOIOSnnniWQb82VY6qwOOi7Qiq8U33r1Rj6iGZ7n5HivEdvBeXdzlxA3/0HAw==",
   "success": true,
   "projectFilePath": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/BlazingTrails.Client.csproj",
   "expectedPackageFiles": [
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation.aspnetcore/10.3.3/fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
-    "/Users/hieutrinh/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/blazored.fluentvalidation/2.0.3/blazored.fluentvalidation.2.0.3.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/fluentvalidation/10.3.5/fluentvalidation.10.3.5.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.authorization/6.0.0/microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
     "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components/6.0.0/microsoft.aspnetcore.components.6.0.0.nupkg.sha512",
     "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.0/microsoft.aspnetcore.components.analyzers.6.0.0.nupkg.sha512",

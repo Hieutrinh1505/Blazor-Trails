@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YZd++WYYfSsB6HPGR+8Ze7PEQJhl60tA0ZURIl5QnHI=",
+  "Hash": "8ylKt4TkXcG4kA6haG6XuGbCuzTgUYlm75oeTIRieqg=",
   "Source": "BlazingTrails.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.components.webassembly/6.0.0/build/net6.0/blazor.webassembly.js"
     },
     {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Blazored.FluentValidation.dll",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.FluentValidation.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/blazored.fluentvalidation/2.0.3/lib/netstandard2.1/Blazored.FluentValidation.dll"
+    },
+    {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/dotnet.6.0.12.iuic4e1o9s.js",
       "SourceId": "BlazingTrails.Client",
       "SourceType": "Computed",
@@ -168,6 +185,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.12/runtimes/browser-wasm/native/dotnet.wasm"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/FluentValidation.dll",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/FluentValidation.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/fluentvalidation/10.3.5/lib/net6.0/FluentValidation.dll"
     },
     {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/icudt_CJK.dat",
@@ -236,6 +270,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.12/runtimes/browser-wasm/native/icudt.dat"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.dll",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/MediatR.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/mediatr/9.0.0/lib/netstandard2.1/MediatR.dll"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
@@ -3706,6 +3774,23 @@
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll"
     },
     {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/23yXX7+X.gz",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/FluentValidation.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/FluentValidation.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/FluentValidation.dll"
+    },
+    {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/2ARws1jm.gz",
       "SourceId": "BlazingTrails.Client",
       "SourceType": "Computed",
@@ -5372,6 +5457,23 @@
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll"
     },
     {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/m6EL3kAp.gz",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/MediatR.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.dll"
+    },
+    {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/mA12yaY9.gz",
       "SourceId": "BlazingTrails.Client",
       "SourceType": "Computed",
@@ -6477,6 +6579,23 @@
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Globalization.dll"
     },
     {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/vdYK228+.gz",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/MediatR.Extensions.Microsoft.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/MediatR.Extensions.Microsoft.DependencyInjection.dll"
+    },
+    {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/VevCqNL6.gz",
       "SourceId": "BlazingTrails.Client",
       "SourceType": "Computed",
@@ -6628,6 +6747,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/X8+XB6t4.gz",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.FluentValidation.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Blazored.FluentValidation.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/bin/Debug/net6.0/wwwroot/_framework/Blazored.FluentValidation.dll"
     },
     {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/build-gz/XfsJ+PoZ.gz",
@@ -6902,23 +7038,6 @@
       "OriginalItemSpec": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/obj/Debug/net6.0/scopedcss/projectbundle/BlazingTrails.Client.bundle.scp.css"
     },
     {
-      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/.DS_Store",
-      "SourceId": "BlazingTrails.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": ".DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/.DS_Store"
-    },
-    {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/app.css",
       "SourceId": "BlazingTrails.Client",
       "SourceType": "Discovered",
@@ -7002,6 +7121,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz",
+      "SourceId": "BlazingTrails.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz"
     },
     {
       "Identity": "/Users/hieutrinh/Desktop/BlazingTrails.Client/BlazingTrails.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
